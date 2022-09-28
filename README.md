@@ -1,6 +1,6 @@
 # GPD：Fixed-backbone protein design
 
--Denovo_proteins
+Denovo proteins (14)
 
 		-native
 		-designed_sequences
@@ -9,7 +9,7 @@
 			-model_of_Hu_et_al
 			-GPD
   
--Single_chain_proteins
+Single chain proteins (103)
 
 		-native
 		-designed_sequences
